@@ -20,3 +20,8 @@ Link: https://chat.openai.com/g/g-P1ZieFCNa
 This GPT creates unique thumbnails for YouTube videos
 
 Link: https://chat.openai.com/g/g-EuyanBX2x
+
+### Phone Wallpaper Maker
+This GPT makes wallpapers for your phone
+
+Link: https://chat.openai.com/g/g-NgF3yERKb-phone-wallpaper-maker
